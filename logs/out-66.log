@@ -1,0 +1,56 @@
+2022-03-24 14:21 +08:00: Starting up http-server, serving ./dist/
+2022-03-24 14:21 +08:00: 
+2022-03-24 14:21 +08:00: http-server version: 14.1.0
+2022-03-24 14:21 +08:00: 
+2022-03-24 14:21 +08:00: http-server settings: 
+2022-03-24 14:21 +08:00: CORS: disabled
+2022-03-24 14:21 +08:00: Cache: 3600 seconds
+2022-03-24 14:21 +08:00: Connection Timeout: 120 seconds
+2022-03-24 14:21 +08:00: Directory Listings: visible
+2022-03-24 14:21 +08:00: AutoIndex: visible
+2022-03-24 14:21 +08:00: Serve GZIP Files: false
+2022-03-24 14:21 +08:00: Serve Brotli Files: false
+2022-03-24 14:21 +08:00: Default File Extension: none
+2022-03-24 14:21 +08:00: 
+2022-03-24 14:21 +08:00: Available on:
+2022-03-24 14:21 +08:00:   http://127.0.0.1:3000
+2022-03-24 14:21 +08:00:   http://172.25.11.146:3000
+2022-03-24 14:21 +08:00: Hit CTRL-C to stop the server
+2022-03-24 14:21 +08:00: 
+2022-03-24 14:21 +08:00: [2022-03-24T06:21:03.888Z]  "GET /" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+2022-03-24 14:21 +08:00: [2022-03-24T06:21:04.012Z]  "GET /assets/index.e08a5678.js" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+2022-03-24 14:21 +08:00: [2022-03-24T06:21:04.016Z]  "GET /assets/index.6c0f914f.css" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+2022-03-24 14:21 +08:00: [2022-03-24T06:21:04.079Z]  "GET /assets/vendor.427629f4.js" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+2022-03-24 14:21 +08:00: [2022-03-24T06:21:05.735Z]  "GET /assets/Calibre-Medium-Custom.66b62c44.woff2" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+2022-03-24 14:21 +08:00: [2022-03-24T06:21:05.737Z]  "GET /favicon.png" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+2022-03-24 14:21 +08:00: [2022-03-24T06:21:05.961Z]  "GET /assets/iconfont.872475bc.woff2?t=1644568638855" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+2022-03-24 14:21 +08:00: [2022-03-24T06:21:05.964Z]  "GET /assets/Calibre-Semibold-Custom.a706c0ac.woff2" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+2022-03-24 14:21 +08:00: [2022-03-24T06:21:06.045Z]  "GET /favicon.png" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+2022-03-24 14:21 +08:00: [2022-03-24T06:21:09.227Z]  "GET /" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+2022-03-24 14:21 +08:00: [2022-03-24T06:21:09.324Z]  "GET /assets/index.6c0f914f.css" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+2022-03-24 14:21 +08:00: [2022-03-24T06:21:09.326Z]  "GET /assets/index.e08a5678.js" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+2022-03-24 14:21 +08:00: [2022-03-24T06:21:09.386Z]  "GET /assets/vendor.427629f4.js" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+2022-03-24 14:21 +08:00: [2022-03-24T06:21:10.586Z]  "GET /favicon.png" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+2022-03-24 14:21 +08:00: [2022-03-24T06:21:10.587Z]  "GET /assets/Calibre-Medium-Custom.66b62c44.woff2" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+2022-03-24 14:21 +08:00: [2022-03-24T06:21:10.781Z]  "GET /assets/iconfont.872475bc.woff2?t=1644568638855" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+2022-03-24 14:21 +08:00: [2022-03-24T06:21:10.782Z]  "GET /assets/Calibre-Semibold-Custom.a706c0ac.woff2" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+2022-03-24 14:21 +08:00: [2022-03-24T06:21:10.860Z]  "GET /favicon.png" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+2022-03-24 14:21 +08:00: [2022-03-24T06:21:40.103Z]  "GET /" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+2022-03-24 14:21 +08:00: [2022-03-24T06:21:40.216Z]  "GET /assets/index.e08a5678.js" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+2022-03-24 14:21 +08:00: [2022-03-24T06:21:40.218Z]  "GET /assets/vendor.427629f4.js" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+2022-03-24 14:21 +08:00: [2022-03-24T06:21:40.276Z]  "GET /assets/index.6c0f914f.css" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+2022-03-24 14:21 +08:00: [2022-03-24T06:21:42.076Z]  "GET /favicon.png" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+2022-03-24 14:21 +08:00: [2022-03-24T06:21:42.078Z]  "GET /assets/Calibre-Medium-Custom.66b62c44.woff2" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+2022-03-24 14:21 +08:00: [2022-03-24T06:21:42.276Z]  "GET /assets/iconfont.872475bc.woff2?t=1644568638855" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+2022-03-24 14:21 +08:00: [2022-03-24T06:21:42.276Z]  "GET /assets/Calibre-Semibold-Custom.a706c0ac.woff2" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+2022-03-24 14:21 +08:00: [2022-03-24T06:21:42.351Z]  "GET /favicon.png" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+2022-03-24 14:22 +08:00: [2022-03-24T06:22:06.557Z]  "GET /" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+2022-03-24 14:22 +08:00: [2022-03-24T06:22:06.691Z]  "GET /assets/index.e08a5678.js" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+2022-03-24 14:22 +08:00: [2022-03-24T06:22:06.694Z]  "GET /assets/index.6c0f914f.css" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+2022-03-24 14:22 +08:00: [2022-03-24T06:22:06.751Z]  "GET /assets/vendor.427629f4.js" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+2022-03-24 14:22 +08:00: [2022-03-24T06:22:08.089Z]  "GET /favicon.png" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+2022-03-24 14:22 +08:00: [2022-03-24T06:22:08.092Z]  "GET /assets/Calibre-Medium-Custom.66b62c44.woff2" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+2022-03-24 14:22 +08:00: [2022-03-24T06:22:08.217Z]  "GET /assets/Calibre-Semibold-Custom.a706c0ac.woff2" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+2022-03-24 14:22 +08:00: [2022-03-24T06:22:08.218Z]  "GET /assets/iconfont.872475bc.woff2?t=1644568638855" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+2022-03-24 14:22 +08:00: [2022-03-24T06:22:08.310Z]  "GET /favicon.png" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+2022-03-24 14:22 +08:00: http-server stopped.

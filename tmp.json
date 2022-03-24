@@ -1,0 +1,30 @@
+{
+  "name": "Xdao",
+  "admins": ["0xB26D1CD9500e692952741e79daB3535A1AC86B04"],
+  "symbol": "Xdao",
+  "voting": {},
+  "filters": {},
+  "network": "4",
+  "plugins": {
+    "safeSnap": {
+      "safes": [
+        {
+          "network": "CHAIN_ID",
+          "realityAddress": "0xSWITCH_WITH_REALITY_MODULE_ADDRESS"
+        }
+      ]
+    }
+  },
+  "categories": [],
+  "strategies": [
+    {
+      "name": "landdao-token-tiers",
+      "params": {
+        "symbol": "LAND",
+        "address": "0xEa25e2b3E35c67876957EE00a28Cd912ff113F54",
+        "tokenWeightIPFS": "QmXrDNrjX8xZu9bdNA1iiW7Ee12RADQFwwhCeLQnwqG2TJ"
+      }
+    }
+  ],
+  "validation": { "name": "basic", "params": {} }
+}

@@ -1,0 +1,69 @@
+2022-03-09 22:11 +08:00: Starting up http-server, serving ./dist/
+2022-03-09 22:11 +08:00: 
+2022-03-09 22:11 +08:00: http-server version: 14.1.0
+2022-03-09 22:11 +08:00: 
+2022-03-09 22:11 +08:00: http-server settings: 
+2022-03-09 22:11 +08:00: CORS: disabled
+2022-03-09 22:11 +08:00: Cache: 3600 seconds
+2022-03-09 22:11 +08:00: Connection Timeout: 120 seconds
+2022-03-09 22:11 +08:00: Directory Listings: visible
+2022-03-09 22:11 +08:00: AutoIndex: visible
+2022-03-09 22:11 +08:00: Serve GZIP Files: false
+2022-03-09 22:11 +08:00: Serve Brotli Files: false
+2022-03-09 22:11 +08:00: Default File Extension: none
+2022-03-09 22:11 +08:00: 
+2022-03-09 22:11 +08:00: Available on:
+2022-03-09 22:11 +08:00:   http://127.0.0.1:6000
+2022-03-09 22:11 +08:00:   http://172.25.11.146:6000
+2022-03-09 22:11 +08:00: Hit CTRL-C to stop the server
+2022-03-09 22:11 +08:00: 
+2022-03-09 22:14 +08:00: http-server stopped.
+2022-03-09 22:31 +08:00: Starting up http-server, serving ./dist/
+2022-03-09 22:31 +08:00: 
+2022-03-09 22:31 +08:00: http-server version: 14.1.0
+2022-03-09 22:31 +08:00: 
+2022-03-09 22:31 +08:00: http-server settings: 
+2022-03-09 22:31 +08:00: CORS: disabled
+2022-03-09 22:31 +08:00: Cache: 3600 seconds
+2022-03-09 22:31 +08:00: Connection Timeout: 120 seconds
+2022-03-09 22:31 +08:00: Directory Listings: visible
+2022-03-09 22:31 +08:00: AutoIndex: visible
+2022-03-09 22:31 +08:00: Serve GZIP Files: false
+2022-03-09 22:31 +08:00: Serve Brotli Files: false
+2022-03-09 22:31 +08:00: Default File Extension: none
+2022-03-09 22:31 +08:00: 
+2022-03-09 22:31 +08:00: Available on:
+2022-03-09 22:31 +08:00:   http://127.0.0.1:3001
+2022-03-09 22:31 +08:00:   http://172.25.11.146:3001
+2022-03-09 22:31 +08:00: Hit CTRL-C to stop the server
+2022-03-09 22:31 +08:00: 
+2022-03-09 22:31 +08:00: [2022-03-09T14:31:06.950Z]  "GET /" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+2022-03-09 22:31 +08:00: [2022-03-09T14:31:07.060Z]  "GET /assets/index.e33d1cf8.js" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+2022-03-09 22:31 +08:00: [2022-03-09T14:31:07.061Z]  "GET /assets/vendor.d21ed444.js" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+2022-03-09 22:31 +08:00: [2022-03-09T14:31:08.727Z]  "GET /assets/index.6c0f914f.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+2022-03-09 22:31 +08:00: [2022-03-09T14:31:15.765Z]  "GET /assets/zh-CN.788d98d4.js" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+2022-03-09 22:31 +08:00: [2022-03-09T14:31:15.768Z]  "GET /service-worker.js?pusherBeamsWebSDKVersion=1.1.0" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+2022-03-09 22:31 +08:00: [2022-03-09T14:31:15.769Z]  "GET /favicon.png" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+2022-03-09 22:31 +08:00: [2022-03-09T14:31:15.779Z]  "GET /assets/Calibre-Medium-Custom.66b62c44.woff2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+2022-03-09 22:31 +08:00: [2022-03-09T14:31:15.973Z]  "GET /favicon.png" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+2022-03-09 22:31 +08:00: [2022-03-09T14:31:16.242Z]  "GET /assets/iconfont.872475bc.woff2?t=1644568638855" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+2022-03-09 22:31 +08:00: [2022-03-09T14:31:16.243Z]  "GET /assets/Calibre-Semibold-Custom.a706c0ac.woff2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+2022-03-09 22:31 +08:00: [2022-03-09T14:31:17.892Z]  "GET /service-worker.js?pusherBeamsWebSDKVersion=1.1.0" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+2022-03-09 22:31 +08:00: [2022-03-09T14:31:21.110Z]  "GET /" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+2022-03-09 22:31 +08:00: [2022-03-09T14:31:21.261Z]  "GET http://47.57.243.177:3001/assets/index.e33d1cf8.js" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+2022-03-09 22:31 +08:00: [2022-03-09T14:31:21.318Z]  "GET /assets/vendor.d21ed444.js" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+2022-03-09 22:31 +08:00: [2022-03-09T14:31:21.323Z]  "GET /assets/index.6c0f914f.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+2022-03-09 22:31 +08:00: [2022-03-09T14:31:23.403Z]  "HEAD http://110.242.68.4/" "Mozilla/5.01694878 Mozilla/5.0 (Windows; U; Windows NT 6.1; en; rv:1.9.2) Gecko/20100115 Firefox/3.6 GTBDFff GTB7.0"
+2022-03-09 22:31 +08:00: [2022-03-09T14:31:23.830Z]  "GET http://dongtaiwang.com/" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36"
+2022-03-09 22:31 +08:00: [2022-03-09T14:31:24.160Z]  "GET http://www.soso.com/" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36"
+2022-03-09 22:31 +08:00: [2022-03-09T14:31:24.476Z]  "GET http://www.rfa.org/english/" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36"
+2022-03-09 22:31 +08:00: [2022-03-09T14:31:24.477Z]  "GET http://www.rfa.org/english/" Error (404): "Not found"
+2022-03-09 22:31 +08:00: [2022-03-09T14:31:24.649Z]  "GET http://47.57.243.177:3001/assets/zh-CN.788d98d4.js" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+2022-03-09 22:31 +08:00: [2022-03-09T14:31:24.718Z]  "GET http://47.57.243.177:3001/assets/Calibre-Medium-Custom.66b62c44.woff2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+2022-03-09 22:31 +08:00: [2022-03-09T14:31:24.742Z]  "GET http://47.57.243.177:3001/favicon.png" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+2022-03-09 22:31 +08:00: [2022-03-09T14:31:24.842Z]  "GET http://47.57.243.177:3001/favicon.png" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+2022-03-09 22:31 +08:00: [2022-03-09T14:31:25.120Z]  "GET http://47.57.243.177:3001/assets/Calibre-Semibold-Custom.a706c0ac.woff2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+2022-03-09 22:31 +08:00: [2022-03-09T14:31:25.121Z]  "GET http://47.57.243.177:3001/assets/iconfont.872475bc.woff2?t=1644568638855" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+2022-03-09 22:31 +08:00: [2022-03-09T14:31:25.677Z]  "GET http://www.epochtimes.com/" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36"
+2022-03-09 22:31 +08:00: [2022-03-09T14:31:25.806Z]  "GET http://www.wujieliulan.com/" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36"
+2022-03-09 22:46 +08:00: http-server stopped.
